@@ -39,9 +39,9 @@ Euclidean distance between the two points.
 
 ##
 
-# Current crew members on expedition 54:
+## Current crew members on expedition 54:
 
-## United States:
+### United States:
 
 Joseph M. Acaba from Anaheim, California:
 Latitude and Longitude: 33.836636, -117.914221
@@ -60,7 +60,7 @@ https://www.nasa.gov/astronauts/biographies/scott-d-tingle/biography
 
 ##
 
-#Russia:
+### Russia:
 
 Alexander Alexandrovich from Orel (Oryol), Russia:
 Latitude and Longitude: 52.967776, 36.059538
@@ -74,9 +74,11 @@ http://www.gctc.ru/main.php?id=218
 
 ##
 
-#Japan:
+### Japan:
 
 Norishige Kanai from Chiba, Japan:
 Latitude and Longitude: 35.620887, 140.107225
 35°37'15.2"N 140°06'26.0"E
 http://iss.jaxa.jp/en/astro/biographies/kanai/index.html
+
+##
