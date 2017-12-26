@@ -1,4 +1,4 @@
-#ISS Distance Calculator
+# ISS Distance Calculator
 
 Helpful Links:
 
@@ -12,7 +12,7 @@ https://wheretheiss.at/w/developer
 
 ##
 
-#Notes on mathematical theory to calculate the distance
+## Notes on mathematical theory to calculate the distance
 
 pythagorean theorem
 
@@ -26,7 +26,9 @@ Pathagorous theorem
 Convert lat and long into absolute position
 Assume the earth does not spin
 
-#How to calculate:
+##
+
+## How to calculate:
 
 The radius of the Earth is about 6,400km, the ISS is about 400km above the surface, so 
 r1=6400,
@@ -35,9 +37,11 @@ Then substitute the longitudes & latitudes (in radians) to compute the 
 (x,y,z) coordinates of the two points and then compute the
 Euclidean distance between the two points.
 
-#Current crew members on expedition 54:
+##
 
-#United States:
+# Current crew members on expedition 54:
+
+## United States:
 
 Joseph M. Acaba from Anaheim, California:
 Latitude and Longitude: 33.836636, -117.914221
@@ -54,6 +58,8 @@ Latitude and Longitude: 42.180009, -71.054176
 42°10'48.0"N 71°03'15.0"W
 https://www.nasa.gov/astronauts/biographies/scott-d-tingle/biography
 
+##
+
 #Russia:
 
 Alexander Alexandrovich from Orel (Oryol), Russia:
@@ -65,6 +71,8 @@ Anton Nikolaevich from Sevastopol, Russia:
 Latitude and Longitude: 53.456705, 35.185575
 53°27'24.1"N 35°11'08.1"E
 http://www.gctc.ru/main.php?id=218
+
+##
 
 #Japan:
 
