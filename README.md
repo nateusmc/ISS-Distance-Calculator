@@ -34,3 +34,41 @@ r2=6800
 Then substitute the longitudes & latitudes (in radians) to compute the 
 (x,y,z) coordinates of the two points and then compute the
 Euclidean distance between the two points.
+
+#Current crew members on expedition 54:
+
+#United States:
+
+Joseph M. Acaba from Anaheim, California:
+Latitude and Longitude: 33.836636, -117.914221
+33°50'19.9"N 117°54'51.8"W
+https://www.nasa.gov/astronauts/biographies/joseph-m-acaba/biography
+
+Mark T. Vande Hei from Falls Church, Virginia:
+Latitude and Longitude: 38.882412, -77.173007
+38°52'56.7"N 77°10'22.8"W
+https://www.nasa.gov/astronauts/biographies/mark-t-vande-hei/biography
+
+Scott D. Tingle from Randolph, Massachusetts:
+Latitude and Longitude: 42.180009, -71.054176
+42°10'48.0"N 71°03'15.0"W
+https://www.nasa.gov/astronauts/biographies/scott-d-tingle/biography
+
+#Russia:
+
+Alexander Alexandrovich from Orel (Oryol), Russia:
+Latitude and Longitude: 52.967776, 36.059538
+52°58'04.0"N 36°03'34.3"E
+http://www.gctc.ru/main.php?id=192
+
+Anton Nikolaevich from Sevastopol, Russia:
+Latitude and Longitude: 53.456705, 35.185575
+53°27'24.1"N 35°11'08.1"E
+http://www.gctc.ru/main.php?id=218
+
+#Japan:
+
+Norishige Kanai from Chiba, Japan:
+Latitude and Longitude: 35.620887, 140.107225
+35°37'15.2"N 140°06'26.0"E
+http://iss.jaxa.jp/en/astro/biographies/kanai/index.html
