@@ -1,10 +1,9 @@
-import urllib2
-import json
+import requests
 
-req = urllib2.Request("http://api.open-notify.org/iss-now.json")
-response = urllib2.urlopen(req)
+info = requests.get('http://api.open-notify.org/iss-now.json').json()
+print('The ISS\'s Position is: ',
+      info['iss_position']['latitude'],
+      info['iss_position']['longitude'])
 
-obj = json.loads(response.read())
-
-print obj['timestamp']
-print obj['iss_position']['latitude'], obj['data']['iss_position']['latitude']
+myPosInfo = requests.get('http://ip-api.com/json').json()
+print('Your location is: ', myPosInfo['lat'], myPosInfo['lon'])
