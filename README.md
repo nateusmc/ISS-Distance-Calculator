@@ -10,21 +10,32 @@ https://api.nasa.gov/index.html#getting-started
 
 https://wheretheiss.at/w/developer
 
+https://math.stackexchange.com/questions/1416288/how-to-calculate-distance-from-the-international-space-station-given-coordinates
+
+https://stackoverflow.com/questions/10473852/convert-latitude-and-longitude-to-point-in-3d-space
+
+
 ##
 
 ## Notes on mathematical theory to calculate the distance
 
-pythagorean theorem
+- Pythagorean Theorem
+- Radius of earth is a constant
+- Center of earth is origin
+- Convert lat and long into absolute position
+- Assume the earth does not spin
 
-Radius of earth is a constant
+##
 
-Center of earth is origin
+## Interesting Facts:
+- ISS moves at a rate of 28,000 km/h
 
-ISS rotates 400km outside of earth’s equator
+- The radius of the Earth is about 6,400km
 
-Pathagorous theorem
-Convert lat and long into absolute position
-Assume the earth does not spin
+- the ISS is about 400km above the surface
+
+- It takes the ISS approximately 90 minutes to travel a full rotation around the Earth
+
 
 ##
 
