@@ -94,3 +94,11 @@ Latitude and Longitude: 35.620887, 140.107225
 http://iss.jaxa.jp/en/astro/biographies/kanai/index.html
 
 ##
+
+### Things to continue to work on:
+
+- Look into Formatting floating point numbers rather than using
+the round built in function
+
+- Try to iterate over these astronauts as a collection to push their
+latitude and longitude into the calculator
