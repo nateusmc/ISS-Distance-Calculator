@@ -1,5 +1,23 @@
 # ISS Distance Calculator
 
+## Project Description:
+
+I Built an app that uses a 3rd party API to gather current latitude and longitude coordinates for the International Space Station. Then I developed a function that will use that data along with other latitude and longitude coordinates to calculate the distance from the input coordinates and the ISS current location. This app currently will give you the distance between the ISS and the user's
+location as well as the distance between the ISS and each crew member aboard expedition 54's Hometown
+so they can see how far away they are from home.
+
+
+
+### Things to continue to work on:
+
+- Look into Formatting floating point numbers rather than using
+the round built in function
+
+- Try to iterate over these astronauts as a collection to push their
+latitude and longitude into the calculator
+
+##
+
 Helpful Links:
 
 http://iss.astroviewer.net/observation.php?lon=-96.51430870000002&lat=33.3349924&name=75409
@@ -94,11 +112,3 @@ Latitude and Longitude: 35.620887, 140.107225
 http://iss.jaxa.jp/en/astro/biographies/kanai/index.html
 
 ##
-
-### Things to continue to work on:
-
-- Look into Formatting floating point numbers rather than using
-the round built in function
-
-- Try to iterate over these astronauts as a collection to push their
-latitude and longitude into the calculator
