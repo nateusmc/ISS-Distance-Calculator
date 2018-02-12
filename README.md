@@ -13,6 +13,9 @@ so they can see how far away they are from home.
 - Navigate to the root directory in your terminal
 - Run the command "python3 main.py"
 
+## Example Screenshot:
+<img src='images/iss-calc.png' />
+
 
 ##
 
