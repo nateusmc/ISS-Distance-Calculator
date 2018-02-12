@@ -7,14 +7,12 @@ location as well as the distance between the ISS and each crew member aboard exp
 so they can see how far away they are from home.
 
 
+## How to use:
 
-### Things to continue to work on:
+- Clone this repo or download it and unzip.
+- Navigate to the root directory in your terminal
+- Run the command "python3 main.py"
 
-- Look into Formatting floating point numbers rather than using
-the round built in function
-
-- Try to iterate over these astronauts as a collection to push their
-latitude and longitude into the calculator
 
 ##
 
